@@ -1,2 +1,10 @@
-# Course-4--Dr.Mohammed-Abu-Hadhoud---Problem-Solving
-Problem Solving
+This file contains the solutions for the problems from Course 4 in Dr. Mohammed’s roadmap. There are 50 problems in total, but I combined some of them to reduce the number of files....
+
+
+What is the purpose of these problems  ?
+
+The purpose of these problems is to improve my coding skills and develop my logic ..
+
+Important note: You might find these problems very easy and notice that they can be solved in simpler ways than mine. However, I solved them using strategies like Divide and Conquer. I focused a lot on writing clean code. I divided each problem into functions, where each function does a specific task, then I combined them together like LEGO pieces, so in the end, my code is clean, easy to understand, and simple to change anytime 
+
+Thank you for your time .
