@@ -1,0 +1,5 @@
+Write a C++ program that keeps reading numbers from the user and adds them together.
+
+The program should stop reading when the user enters the number 99.
+
+After the user enters 99, the program should display the total sum of all previously entered numbers.

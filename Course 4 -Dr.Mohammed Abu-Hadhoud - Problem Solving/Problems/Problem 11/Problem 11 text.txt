@@ -1,0 +1,4 @@
+Write a C++ program that asks the user to enter their age.
+The program should make sure that the entered age is within a specific range (for example, between 10 and 20).
+If the age is outside this range, the program should display an error message and ask the user to enter the age again until a valid value is entered.
+After a valid age is entered, the program should print the age on the screen.

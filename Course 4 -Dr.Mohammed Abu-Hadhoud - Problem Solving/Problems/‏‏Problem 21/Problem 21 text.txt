@@ -1,0 +1,10 @@
+Write a C++ program that calculates the final total bill after adding service fees and taxes.
+
+The program should ask the user to enter the original bill amount,
+then apply:
+
+10% service fee, and
+
+16% tax on top of the total (after service).
+
+Finally, the program should display the original bill and the total bill after adding service and tax.

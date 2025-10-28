@@ -1,0 +1,13 @@
+Write a C++ program that reads the content of a piggy bank, including the total number of:
+- Pennies
+- Nickels
+- Dimes
+- Quarters
+- Dollar bills
+
+The program should then:
+1. Calculate the total value in pennies.
+2. Convert the total value to dollars.
+3. Display both the total in pennies and in dollars.
+
+The program should use a structure (struct) to store the piggy bank content.

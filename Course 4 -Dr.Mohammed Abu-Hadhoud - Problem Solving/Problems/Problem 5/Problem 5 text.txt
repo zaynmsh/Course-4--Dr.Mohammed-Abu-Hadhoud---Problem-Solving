@@ -1,0 +1,12 @@
+Problem Statement:
+
+  Write a C++ program that:
+  1. Reads a number from the user.
+  2. Calculates half of that number.
+  3. Determines whether the half value represents
+     a "Pass" or "Fail" according to the following rule:
+        - Pass if half of the number > 60
+        - Otherwise, Fail
+  4. Prints the result as "Pass" or "Fail"
+     and displays the half value formatted
+     to 3 decimal places.

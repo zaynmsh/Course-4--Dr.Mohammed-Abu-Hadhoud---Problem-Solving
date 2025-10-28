@@ -1,0 +1,18 @@
+
+Problem Description:
+Write a C++ program that reads the total sales amount from the user and calculates
+the sales commission based on the following conditions:
+
+| Total Sales (USD)           | Commission Rate |
+|------------------------------|-----------------|
+| ≥ 1,000,000                 | 1%              |
+| ≥ 500,000 and to 1,000,000   | 2%              |
+| ≥ 100,000 and to 500,000     | 3%              |
+| ≥ 50,000 and to 100,000      | 5%              |
+| < 50,000                    | 0%              |
+
+The program should:
+1. Ask the user to enter the total sales.
+2. Determine the commission percentage based on the sales amount.
+3. Calculate and print both the commission percentage and the total commission value.
+Each step should be implemented in a separate function.

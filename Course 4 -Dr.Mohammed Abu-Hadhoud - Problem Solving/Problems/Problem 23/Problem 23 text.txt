@@ -1,0 +1,2 @@
+Write a C++ program that reads a task duration expressed in days, hours, minutes, and seconds,
+and then calculates the total duration in seconds 

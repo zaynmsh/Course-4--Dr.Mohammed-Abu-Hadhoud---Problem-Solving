@@ -1,0 +1,4 @@
+Write a C++ program that:
+  1. Reads two integer numbers from the user.
+  2. Swaps their values.
+  3. Prints both numbers after swapping.

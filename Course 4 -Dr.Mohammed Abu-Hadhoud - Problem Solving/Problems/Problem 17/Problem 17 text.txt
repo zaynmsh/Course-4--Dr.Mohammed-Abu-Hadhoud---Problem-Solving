@@ -1,0 +1,11 @@
+Write a C++ program that simulates a simple calculator.
+
+The program should:
+
+Ask the user to enter two numbers.
+
+Ask the user to choose an operation type (+, -, *, /).
+
+Calculate the result based on the selected operation.
+
+Display the final result on the screen.

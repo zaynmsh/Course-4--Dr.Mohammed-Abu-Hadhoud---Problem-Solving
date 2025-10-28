@@ -1,0 +1,9 @@
+ Write a C++ program that:
+  1. Reads three integer numbers from the user.
+  2. Calculates the sum of the three numbers.
+  3. Calculates the average of the three numbers.
+  4. Checks whether the average value represents "Pass"
+     or "Fail" based on the following rule:
+         - Pass if the average > 40
+         - Otherwise, Fail
+  5. Prints "Pass" or "Fail" accordingly.

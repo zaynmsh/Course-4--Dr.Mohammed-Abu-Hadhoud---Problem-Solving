@@ -1,0 +1,5 @@
+Write a C++ program that:
+  1. Reads three integer numbers from the user.
+  2. Calculates the sum of the three numbers.
+  3. Calculates the average of the three numbers.
+  4. Prints both the sum and the average.

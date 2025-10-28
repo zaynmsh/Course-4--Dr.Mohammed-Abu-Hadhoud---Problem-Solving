@@ -1,0 +1,6 @@
+C++ Program — Convert Hours to Days and Weeks
+
+Write a C++ program that converts a given number of hours into days and weeks.
+
+The program should ask the user to enter a positive number of hours,
+then calculate how many days and weeks this number represents.

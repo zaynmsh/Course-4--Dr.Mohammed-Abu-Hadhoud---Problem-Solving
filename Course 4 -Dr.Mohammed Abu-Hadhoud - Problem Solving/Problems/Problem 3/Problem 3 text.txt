@@ -1,0 +1,15 @@
+ Write a C++ program that defines a structure named
+  `stPersonInfo` to store information about a person,
+  including:
+      - Name (string)
+      - Age (int)
+      - HasDriverLicense (bool)
+
+  The program should:
+  1. Read the person's name, age, and whether they have
+     a driver’s license (1 for Yes, 0 for No).
+  2. Check if the person is accepted or rejected based
+     on the following rule:
+         - Accepted if Age > 18 AND HasDriverLicense = true
+         - Otherwise, Rejected.
+  3. Print "Accepted" or "Rejected" accordingly.

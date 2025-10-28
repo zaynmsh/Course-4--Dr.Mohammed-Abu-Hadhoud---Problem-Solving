@@ -1,0 +1,1 @@
+Write a C++ program that asks the user to enter a number representing a day of the week, and then displays the corresponding day name.

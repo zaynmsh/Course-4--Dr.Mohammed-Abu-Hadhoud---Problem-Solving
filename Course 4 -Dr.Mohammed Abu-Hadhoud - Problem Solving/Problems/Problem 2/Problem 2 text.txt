@@ -1,0 +1,5 @@
+  Write a C++ program that:
+  1. Reads the user's name and age from the console.
+  2. Prints the user's name and age.
+  3. Checks whether the user's age is even or odd
+     using (enum) and prints the result.

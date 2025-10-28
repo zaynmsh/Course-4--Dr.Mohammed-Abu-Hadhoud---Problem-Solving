@@ -1,0 +1,7 @@
+ Write a C++ program that defines a structure named
+  `stPersonInfo` to store a person's first and second name.
+
+  The program should:
+  1. Read the person's first name and second name.
+  2. Combine them into a single full name.
+  3. Print the full name

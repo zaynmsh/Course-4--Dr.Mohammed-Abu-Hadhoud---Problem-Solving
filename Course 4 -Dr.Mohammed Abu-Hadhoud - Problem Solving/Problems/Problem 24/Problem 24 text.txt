@@ -1,0 +1,1 @@
+Write a C++ program that converts a given number of total seconds into an equivalent duration expressed in days, hours, minutes, and seconds.
